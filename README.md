@@ -12,9 +12,9 @@ I am a Software Developer with a background in Engineering. I am a recent gradua
 
 🎮 Some live demos of things I have worked on:
 - [Worldly](https://worldly-geo-quiz.herokuapp.com/) - a geography quiz game
-- [CrimeWatch](https://crime-watch-police-data.herokuapp.com/) - a web app that mapping data taken from the Police Data API.  
+- [CrimeWatch](https://crime-watch-police-data.herokuapp.com/) - a web app that mapping data taken from the Police Data API  
 
-🌱 I’m currently learning 
+🌱 I’m currently learning: 
 - Cloud technologies (docker, AWS, Heroku, and Atlas)
 - React Functional Components
 <br/>
