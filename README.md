@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Software Developer with a background in Engineering. I am a recent graduate of CodeClan and focussed on getting lost in the world of programming, and hoping to learn a few things in the process.
+I am a Software Developer with a background in Engineering. I have recently graduated from CodeClan and am now focussed on getting lost in the world of programming,  hoping to learn a few things in the process.
 <br/>
 
 
