@@ -17,6 +17,7 @@ I am a Software Developer with a background in Engineering. I have recently grad
 🌱 I’m currently learning: 
 - Cloud technologies (docker, AWS, Heroku, and Atlas)
 - React Functional Components
+- Python
 <br/>
 
 
